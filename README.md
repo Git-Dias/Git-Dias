@@ -1,4 +1,4 @@
-# Hi 👋, I'm DiazTech
+# Hi 👋
 
 ### CyberSecurity Engineer
 
